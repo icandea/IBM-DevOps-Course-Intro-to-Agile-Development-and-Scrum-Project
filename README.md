@@ -1,2 +1,2 @@
 # agile-final-project
-Honor project agile coursera
+Coursera: Introduction to Agile Development and Scrum - Final Project

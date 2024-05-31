@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-     **As a** <ROLE>
-     **I need** <FUNCTIONALITY>
-     **So that** <BENEFIT>
+     **As a** [ROLE]
+     **I need** [FUNCTIONALITY]
+     **So that** [BENEFIT]
        
      ### Details and Assumptions
-     ** <DETAILS THAT CAN HELP DEVELOPER>
+     ** [DETAILS THAT CAN HELP DEVELOPER]
      ** [document what you know]
      
        

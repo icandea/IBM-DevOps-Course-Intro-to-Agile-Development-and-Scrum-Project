@@ -1,5 +1,5 @@
 # agile-final-project
-Coursera: Introduction to Agile Development and Scrum - Final Project
+### Coursera: Introduction to Agile Development and Scrum - Final Project
 ### Final Project Overview and Scenario
 ### OVERVIEW
 
